@@ -1,6 +1,4 @@
-﻿using DevExpress.Web.ASPxDataView;
-using DevExpress.Web.ASPxEditors;
-using DevExpress.Web.ASPxFormLayout;
+﻿using DevExpress.Web;
 using System;
 using System.Web.UI;
 using System.Web.UI.WebControls;
